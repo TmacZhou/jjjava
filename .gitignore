@@ -31,4 +31,5 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 /.idea/**
-/jjjava.iml
+*.iml
+/out/**
